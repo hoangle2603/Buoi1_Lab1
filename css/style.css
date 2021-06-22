@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    padding-left: 175px;
+    padding-right: 175px;
+}
+.Thong_tin{
+    width: 1000px;
+    height: 25px;
+}
+.Banner img {
+    width: 333px;
+    height: 116px;
+}
+
+#like{
+    width: 75px;
+    height: 20px;
+    float:inline-start;
+}
+#twiter{
+    width: 75px;
+    height: 20px;
+    padding-top: 3px;
+}
+#youtube{
+    width: 75px;
+    height: 20px;
+    
+}
+ul{
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    font-size: 15px;
+    background-color:rgba(212, 204, 204, 0.61);
+    color: black;
+}
+#home{
+    background-color:rgba(212, 204, 204, 0.61);
+    color: lightcoral;
+}
+#fas1 {
+    color: orange;
+    float: right;
+}
+#search{
+    float: right;
+}
+.Content{
+    width: 999px;
+    height: 500px;
+}
+.Content1{
+    width: 724px;
+    height: 500px;
+    float: left;
+}
+.Content1-left {
+    width: 475px;
+    height: 500px ;
+    float: left;
+}
+.Content1-left img{
+    width: 470px;
+    height: 320px ;
+}
+.Content1-right{
+    width: 230px;
+    height: 500px;
+    float:right;
+    padding-right: 20px;
+}
+#english{
+    color: black;
+    float: right;
+}
+#top{
+    padding-top: 22px;
+}
+#top1{
+    font-size: 17px;
+    padding-bottom: 20px;
+}
+
+.Content2{
+    width: 275px;
+    height: 500px;
+    float: right;
+    font-size: small;
+}
+.Content2 img{
+    width: 275px;
+    height: 150px;
+}
+.img1{
+    padding-bottom: 15px;
+}
+.img2{
+    padding-bottom: 15px;
+}
+.img3{
+    padding-bottom: 15px;
+}
+.img4{
+    width: 125px;
+    height: 90px;
+    float: right;
+}
+.p4{
+    padding-top: 30px;
+    font-size: 16px;
+}
+#p5{
+    background-color: rgb(207, 203, 203);
+}
+#p1{
+    font-size: 17px;
+}
+h3{
+    color: lightcoral;
+}
+#p3{
+    color: black;
+    font-weight: 1000;
+}
